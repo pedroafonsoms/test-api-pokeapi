@@ -1,4 +1,4 @@
-A simple repository, just to show some tests, using supertest with a Pokémon API available in https://pokeapi.co/,
+Test project using supertest, mocha, chai and JOI for [Pokémon API](https://pokeapi.co/)
 
 ## Prerequisites
 * [Node](https://nodejs.org/en/)
