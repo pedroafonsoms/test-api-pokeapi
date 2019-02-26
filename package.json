@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
-    "test-integration": "mocha test/pokemon_get.js",
-    "test-contract": "mocha test/pokemon_contract.js"
+    "test-integration": "./node_modules/mocha/bin/mocha test/pokemon_get.js",
+    "test-contract": "./node_modules/mocha/bin/mocha test/pokemon_contract.js"
   },
   "author": "Pedro Afonso",
   "license": "ISC",
